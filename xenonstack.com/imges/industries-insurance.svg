@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1860d3;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1450a8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.03px;
+      }
+
+      .cls-3 {
+        fill: #71e2ac;
+      }
+
+      .cls-4 {
+        fill: #22b573;
+      }
+
+      .cls-5 {
+        fill: #ffb62d;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-2" cx="28.22" cy="27.62" r="4.54"/>
+    <path class="cls-2" d="m19.19,42.9c0-4.99,4.05-9.04,9.04-9.04s9.04,4.05,9.04,9.04"/>
+  </g>
+  <g>
+    <circle class="cls-2" cx="41.17" cy="29.13" r="3.26"/>
+    <path class="cls-2" d="m36.6,35.5c1.17-1.16,2.79-1.88,4.57-1.88,3.58,0,6.49,2.9,6.49,6.49v6.92H5.78v-22.39"/>
+  </g>
+  <g>
+    <path class="cls-4" d="m12.87,1.09s-4.41,7.38-11.03,7.38c0,0-.11,11.58,11.03,17.54"/>
+    <path class="cls-3" d="m12.87,1.09s4.41,7.38,11.03,7.38c0,0,.11,11.58-11.03,17.54"/>
+  </g>
+  <polyline class="cls-2" points="27 9.1 48.02 9.1 48.02 35.01"/>
+  <rect class="cls-5" x="9.01" y="29.68" width="4.18" height="4.18"/>
+  <rect class="cls-1" x="27.64" y="13.15" width="4.18" height="4.18"/>
+  <rect class="cls-5" x="36.22" y="13.15" width="4.18" height="4.18"/>
+  <rect class="cls-1" x="9.01" y="38.38" width="4.18" height="4.18"/>
+</svg>

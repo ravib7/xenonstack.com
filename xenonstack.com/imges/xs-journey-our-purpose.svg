@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1860d3;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        stroke: #1450a8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .66px;
+      }
+
+      .cls-5 {
+        fill: #00be84;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-7 {
+        fill: #ffb62d;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1111.75" y1="-730.64" x2="1123.56" y2="-730.64" gradientTransform="translate(-1159.35 650.42) rotate(5.26)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d35400"/>
+      <stop offset="1" stop-color="#ffb62d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1111.75" y1="-727.27" x2="1123.56" y2="-727.27" gradientTransform="translate(-1159.04 643.7) rotate(5.26)" xlink:href="#linear-gradient"/>
+  </defs>
+  <path class="cls-7" d="m39.58,32.99c2.28,0,4.13-1.85,4.13-4.13s-1.85-4.13-4.13-4.13"/>
+  <g>
+    <g>
+      <g>
+        <path class="cls-7" d="m29.06,13.28c.2,3.1-1.25,5.88-3.55,7.54v5.69c0,.69-.56,1.26-1.26,1.26h-7.53c-.69,0-1.26-.56-1.26-1.26v-5.69c-2.16-1.56-3.56-4.09-3.56-6.96,0-4.85,4.02-8.77,8.91-8.59,4.34.16,7.96,3.68,8.25,8.01Z"/>
+        <rect class="cls-6" x="14.69" y="24.43" width="11.85" height="1.93" rx=".97" ry=".97" transform="translate(43.48 48.79) rotate(174.74)"/>
+        <rect class="cls-2" x="14.69" y="21.06" width="11.85" height="1.93" rx=".97" ry=".97" transform="translate(43.17 42.06) rotate(174.74)"/>
+      </g>
+      <path class="cls-4" d="m17.05,20.42s4.34-7.99,1.07-10.22-2.98,7.17,1.22,5.93,6.56-7.17,4.15-6.7-2.88,8.03-.77,10.09"/>
+    </g>
+    <rect class="cls-5" x="3.73" y="9.27" width="6.66" height="1.55" rx=".77" ry=".77" transform="translate(4.49 -1.96) rotate(23.03)"/>
+    <rect class="cls-5" x="6.85" y="2.98" width="6.66" height="1.55" rx=".77" ry=".77" transform="translate(5.64 -6.1) rotate(45)"/>
+    <rect class="cls-5" x="29.44" y="9.27" width="6.66" height="1.55" rx=".77" ry=".77" transform="translate(66.86 6.47) rotate(156.97)"/>
+    <rect class="cls-5" x="26.76" y="2.98" width="6.66" height="1.55" rx=".77" ry=".77" transform="translate(54.03 -14.87) rotate(135)"/>
+  </g>
+  <polyline class="cls-3" points="13.59 26.9 8.61 29.58 8.61 40.74 42.92 44.5"/>
+  <line class="cls-3" x1="42.92" y1="11.12" x2="29.63" y2="18.27"/>
+  <ellipse class="cls-3" cx="42.92" cy="27.81" rx="3.74" ry="16.69"/>
+  <polyline class="cls-1" points="12.58 41.18 10.19 49.58 14.03 49.58 20.62 42.06"/>
+  <line class="cls-3" x1="11.9" y1="32.99" x2="35.17" y2="27.81"/>
+  <line class="cls-3" x1="11.9" y1="36.83" x2="31.68" y2="35.7"/>
+  <rect class="cls-1" x="3.33" y="32.99" width="5.27" height="5.27"/>
+</svg>

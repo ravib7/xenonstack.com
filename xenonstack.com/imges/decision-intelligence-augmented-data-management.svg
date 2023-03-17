@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1860d3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #1450a8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .85px;
+      }
+
+      .cls-4 {
+        fill: #1450a8;
+      }
+
+      .cls-5 {
+        fill: #00be84;
+      }
+
+      .cls-6 {
+        fill: #ffb62d;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-3" points="17.73 18.23 17.73 12.78 45.6 6.73 45.6 38.91 40.72 39.97"/>
+    <polyline class="cls-3" points="17.73 17.45 17.73 12.78 2.37 6.73 2.37 38.91"/>
+    <polygon class="cls-3" points="2.37 6.74 17.73 12.78 45.6 6.73 30.23 .69 2.37 6.74"/>
+  </g>
+  <rect class="cls-1" x="7.09" y="34.35" width="12.06" height="12.06"/>
+  <path class="cls-4" d="m6.04,35.41v9.96h-1.33v-9.96h1.33m1.05-1.05h-3.43v12.06h3.43v-12.06h0Z"/>
+  <circle class="cls-2" cx="13.13" cy="39.97" r="2.67"/>
+  <rect class="cls-6" x="26.76" y="34.35" width="12.06" height="12.06"/>
+  <path class="cls-4" d="m25.71,35.41v9.96h-1.33v-9.96h1.33m1.05-1.05h-3.43v12.06h3.43v-12.06h0Z"/>
+  <circle class="cls-2" cx="32.79" cy="39.97" r="2.67"/>
+  <g>
+    <rect class="cls-5" x="16.93" y="20.38" width="12.06" height="12.06"/>
+    <path class="cls-4" d="m15.88,21.43v9.96h-1.33v-9.96h1.33m1.05-1.05h-3.43v12.06h3.43v-12.06h0Z"/>
+    <circle class="cls-2" cx="22.96" cy="25.99" r="2.67"/>
+  </g>
+  <polygon class="cls-1" points="41.51 15.59 22.29 19.4 22.29 15.88 41.51 12.07 41.51 15.59"/>
+  <polygon class="cls-6" points="41.51 21.65 31.9 23.56 31.9 20.04 41.51 18.13 41.51 21.65"/>
+  <polygon class="cls-1" points="41.51 32.67 31.9 32.44 31.9 26.07 41.51 24.16 41.51 32.67"/>
+  <polyline class="cls-3" points="11.48 20.38 4.19 17.2 4.19 11.43 14.07 15.73 14.07 18.67"/>
+  <polyline class="cls-3" points="11.48 29.32 4.19 26.15 4.19 20.38 11.28 23.46"/>
+</svg>
